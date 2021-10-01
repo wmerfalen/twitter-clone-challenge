@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on William Merfalen</title>
+    <link>https://wmerfalen.github.io/twitter-clone-challenge/categories/</link>
+    <description>Recent content in Categories on William Merfalen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wmerfalen@gmail.com (William Merfalen)</managingEditor>
+    <webMaster>wmerfalen@gmail.com (William Merfalen)</webMaster>
+    <copyright>© William Merfalen</copyright>
+    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://wmerfalen.github.io/twitter-clone-challenge/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development</title>
+      <link>https://wmerfalen.github.io/twitter-clone-challenge/categories/web-development/</link>
+      <pubDate>Fri, 02 May 2014 00:00:00 +0000</pubDate>
+      <author>wmerfalen@gmail.com (William Merfalen)</author>
+      <guid>https://wmerfalen.github.io/twitter-clone-challenge/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

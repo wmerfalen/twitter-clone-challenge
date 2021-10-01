@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on William Merfalen</title>
+    <link>https://wmerfalen.github.io/twitter-clone-challenge/tags/</link>
+    <description>Recent content in Tags on William Merfalen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>wmerfalen@gmail.com (William Merfalen)</managingEditor>
+    <webMaster>wmerfalen@gmail.com (William Merfalen)</webMaster>
+    <copyright>© William Merfalen</copyright><atom:link href="https://wmerfalen.github.io/twitter-clone-challenge/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
